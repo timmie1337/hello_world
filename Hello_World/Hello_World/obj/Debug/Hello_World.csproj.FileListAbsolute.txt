@@ -1,0 +1,6 @@
+C:\Users\timmie.aldenberg\Desktop\Test\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\timmie.aldenberg\Desktop\Test\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\timmie.aldenberg\Desktop\Test\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\timmie.aldenberg\Desktop\Test\Hello_World\Hello_World\obj\Debug\Hello_World.csprojResolveAssemblyReference.cache
+C:\Users\timmie.aldenberg\Desktop\Test\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\timmie.aldenberg\Desktop\Test\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
